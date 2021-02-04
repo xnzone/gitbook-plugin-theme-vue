@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-theme-vue",
+  "description": "gitbook theme vue",
+  "main": "index.js",
+  "version": "0.0.1",
+  "author": {
+    "name": "xnzone",
+    "email": "ixnzone@foxmail.com"
+  },
+  "keywords": [
+    "gitbook",
+    "gitbook-plugin",
+    "vue",
+    "theme"
+  ],
+  "engines": {
+    "gitbook": ">=2.4.3"
+  },
+  "homepage": "https://github.com/xnzone/gitbook-plugin-theme-vue",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xnzone/gitbook-plugin-theme-vue.git"
+  }
+}
